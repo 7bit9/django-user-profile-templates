@@ -3,7 +3,7 @@ django-user-profile-templates
 
 Required templates for blist django user-profile implemetation 
 
-* https://bitbucket.org/ubernostrum/django-profiles/)
+* https://bitbucket.org/ubernostrum/django-profiles/
 
 
 Forked from blog: "django-profiles: The Missing Manual"
