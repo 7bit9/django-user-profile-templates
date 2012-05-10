@@ -9,3 +9,4 @@ Required templates for blist django user-profile implemetation
 Forked from blog: "django-profiles: The Missing Manual"
 
 * http://birdhouse.org/blog/2009/06/27/django-profiles/ 
+
